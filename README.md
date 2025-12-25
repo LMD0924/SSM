@@ -1,2 +1,2 @@
-# SSM
-一个整合了Spring+SpringMVC+Mybatis的简单有关课程的增删改查
+# Spring+SpringMVC+Mybatis
+一个整合了c的简单有关课程的增删改查
